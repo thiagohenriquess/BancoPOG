@@ -1,4 +1,11 @@
 .classpath
 .project
 .settings/
-
+.idea/
+target
+.classhpath
+.project
+*.iml
+*.class
+*.jar
+bin/
